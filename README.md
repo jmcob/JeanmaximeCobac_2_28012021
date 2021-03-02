@@ -18,7 +18,7 @@ Forms, links and buttons are not functional as this is a single page.
 
 ## Files
 
-index.html is the main HTML file.
-styles.css is the main CSS file.
+*index.html* is the main HTML file.
+*styles.css* is the main CSS file.
 
 Regards, Jean-Maxime
