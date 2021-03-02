@@ -1,8 +1,9 @@
-# oc
-These are my first projects as becoming a web developer.
-Please be kind !
-You'll find my CV and some school projects, nearly everything i did from the beginning of my short career !
+# Reservia - OpenClassRooms webDev
 
-Thanks for giving me some advice !
+This is my second project for OpenClassRooms as a student for becoming a web developer.
+
+## This is actually made of pure CSS3 / HTML5 without anything else.
+
+Checkout the URL on the github sidebar to take a look !
 
 Regards, Jean-Maxime
