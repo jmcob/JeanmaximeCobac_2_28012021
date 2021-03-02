@@ -12,6 +12,8 @@ Some CSS properties like color variables, media queries for responsive, font awe
 
 Forms, links and buttons are not functional as this is a single page.
 
-**Checkout the URL on the github sidebar to take a look !**
+## Checkout the URL to take a look !
+
+<http://jmcob.github.io/jean-maximecobac_2_13012021/>
 
 Regards, Jean-Maxime
