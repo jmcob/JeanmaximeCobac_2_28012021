@@ -16,4 +16,9 @@ Forms, links and buttons are not functional as this is a single page.
 
 <http://jmcob.github.io/jean-maximecobac_2_13012021/>
 
+## Files
+
+index.html is the main HTML file.
+styles.css is the main CSS file.
+
 Regards, Jean-Maxime
