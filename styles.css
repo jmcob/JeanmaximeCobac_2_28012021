@@ -347,7 +347,7 @@ h3 {
 .popular_card {
   height: 150px;
   border-radius: 20px 20px;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   box-shadow: 2px 2px 2px var(--shadow-color);
   background-color: var(--fig-bg-color);
   border: 5px solid var(--fig-bg-color);
