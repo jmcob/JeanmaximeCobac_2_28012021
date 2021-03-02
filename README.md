@@ -20,7 +20,10 @@ Forms, links and buttons are not functional as this is a single page.
 
 *index.html* is the main HTML file.
 *styles.css* is the main CSS file.
+
 You can see the original mockup in *Desktop - 1.png* and *iPhone 8 - 1.png*.
+
 Everything else should not be important to you.
+
 
 Regards, Jean-Maxime
