@@ -58,10 +58,11 @@ Two major breakpoints : 1024px and 768px. Between the two this is sort of a hybr
 
 Obviously, I'm usinig GitHub for this project. Locally I'm using 3 different softwares for git :
 * git in the terminal on macOS with the common command lines, easy for important changes, preferably used for merges.
-* gitHub Desktop to stage, commit and push files in a second.
+* GitHub Desktop to stage, commit and push files in a second.
 * VS Code integrated terminal and simplified command lines in the beginning, but less often now that i know how to use a proper terminal.
 
 I could add GitHub website that is easy to handle some tasks like pull requests, and necessary to delete branches once they are removed locally.
+I use GitHub Pages to host the website.
 
 ## Visual Studio Code
 
