@@ -14,7 +14,7 @@ Forms, links and buttons are not functional as this is a single page.
 
 ## Checkout the URL to take a look
 
-<http://jmcob.github.io/Jean-MaximeCobac_2_13012021/>
+<http://reservia.jmxi.art/>
 
 ## About this work, in details
 
