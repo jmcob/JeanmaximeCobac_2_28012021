@@ -54,6 +54,20 @@ Made of a CSS Grid.
 
 Two major breakpoints : 1024px and 768px. Between the two this is sort of a hybrid.
 
+## Git and GitHub
+
+Obviously, I'm usinig GitHub for this project. Locally I'm using 3 different softwares for git :
+* git in the terminal on macOS with the common command lines, easy for important changes, preferably used for merges.
+* gitHub Desktop to stage, commit and push files in a second.
+* VS Code integrated terminal and simplified command lines in the beginning, but less often now that i know how to use a proper terminal.
+
+I could add GitHub website that is easy to handle some tasks like pull requests, and necessary to delete branches once they are removed locally.
+
+## Visual Studio Code
+
+This is my editor of choice due to extensions like "Live Server", "Prettier", W3C validation tools and other stuff.
+Its use for common tasks on git is a great advantage too.
+Lots of settings to customize and make it mine.
 
 ## Files
 
