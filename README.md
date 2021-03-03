@@ -8,7 +8,7 @@ This is my second project for OpenClassRooms as a student for becoming a web dev
 
 This page makes use of the CSS FlexBox and Grid properties. As a result, the "hébergement" and "activités" sections mainly use Flexbox for their structure. Moreover, the "footer", each hotel card, and mobile menu are made with CSS Grid.
 
-Some CSS properties like color variables, media queries for responsive, font awesome icons and heavy CSS personnalization are part of this work.
+Some CSS properties like color variables, media queries for responsive, font awesome icons, google fonts and heavy CSS personnalization are part of this work.
 
 Forms, links and buttons are not functional as this is a single page.
 
