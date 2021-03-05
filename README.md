@@ -14,7 +14,7 @@ Forms, links and buttons are not functional as this is a single page.
 
 ## Checkout the URL to take a look
 
-<http://reservia.jmxi.art/>
+<http://reservia.jmax.dev/>
 
 ## About this work, in details
 
