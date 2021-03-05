@@ -604,6 +604,7 @@ div .activity-single-5-6 {
   .activity-single-5-6 {
     margin: 0px;
     justify-content: space-around;
+    max-height: 425px;
   }
 
   .activity_card .caption {
